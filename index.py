@@ -3,9 +3,9 @@
 import os
 import time
 
-# from skafossdk import * 
+from skafossdk import * 
 
-# skafos = Skafos() 
+skafos = Skafos() 
 print("Before sleep")
 time.sleep(3)
 print("Hello, world!")
