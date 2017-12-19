@@ -6,6 +6,7 @@ import time
 from skafossdk import * 
 
 skafos = Skafos() 
+print "error"
 print("Before sleep")
 time.sleep(3)
 print("Hello, world!")
