@@ -2,7 +2,7 @@
 
 import os
 import time
-print("before importv2")
+
 from skafossdk import * 
 
 skafos = Skafos() 
