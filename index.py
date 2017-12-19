@@ -4,6 +4,7 @@ import os
 import time
 
 from skafossdk import * 
+print("hel")
 
 skafos = Skafos() 
 print("Before sleep")
