@@ -2,6 +2,7 @@
 
 import os
 import time
+import numpy
 
 from skafossdk import * 
 print("hel")
