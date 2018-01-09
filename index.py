@@ -6,6 +6,7 @@ import numpy
 
 from skafossdk import * 
 print("hel")
+print("blah")
 
 skafos = Skafos() 
 print("Before sleep")
